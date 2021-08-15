@@ -1,2 +1,6 @@
 this is test for pull
-tue
+<<<<<<< HEAD
+true
+=======
+tru
+>>>>>>> branch1
